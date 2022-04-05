@@ -1,8 +1,5 @@
 # P. 1
 
-from math import prod
-
-
 def sum_to(n):
   sum = 0
   for num in range(1, n+1):
